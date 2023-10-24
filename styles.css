@@ -1,2 +1,35 @@
-
 /* Your CSS Code here. */
+#button-1 {
+	background-color: rgb(90,52,255);
+	border: none;
+}
+
+#button-2 {
+	background-color: white;
+	color: rgb(124,131,140);
+	border: 1px solid rgb(124,131,140);
+}
+
+#button-3 {
+	border: none;
+	padding:12px;
+}
+
+#button-4 {
+	border: none;
+}
+
+#button-5 {
+	border: none;
+	width: 100vw;
+}
+
+#button-6 {
+	background-color: aqua;
+	border: none;
+	color: black;
+}
+#button-8 {
+	border: none;
+	text-decoration: underline;
+}
